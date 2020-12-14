@@ -1,6 +1,6 @@
 
 #' calcualate_growth_rate_and_expression_Biotek
-#' #'
+#'
 #' A function use output of plate reader to caluclate growth rate, if have fluorescence data, it can also calculate fluorescence expression level.
 #' @param inputfile inputfile="./dat-001-001-sd-p121.123.3AT_SCD-H.xlsx";
 #' @param skip_num skip_num=40, how many lines before the real data
